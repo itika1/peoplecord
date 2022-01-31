@@ -8,6 +8,9 @@ Welcome message whenever you enter
 Notification whenever someone joined the room
 Any time can leave room
 
+##Folder - utils
+The utils folder contain the javascript files of message and users.
+
 I built this using mainly node.js, express.js, socket.io, HTML, CSS and javascript. Upload the files in got repository and deployed it on Heroku to host in live server.
 
 ## Inspiration
